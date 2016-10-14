@@ -1,0 +1,8 @@
+html, body, canvas {
+  padding: 0px;
+  margin: 0px;
+}
+
+#game-canvas {
+  background-color: black;
+}
